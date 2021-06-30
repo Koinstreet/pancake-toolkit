@@ -7,9 +7,9 @@ const Logo = ({ ...props }) => {
   return (
     <span {...props}>
       <img
-        src="https://res.cloudinary.com/djhbhzex4/image/upload/v1625009115/plutopepelogo_raf3ko.png"
+        src="https://res.cloudinary.com/djhbhzex4/image/upload/v1625009161/plutopepelogoicon_nh9wp7.png"
         alt="pluto pepe"
-        width={120}
+        width={46}
       />
     </span>
   );
